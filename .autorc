@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "NidukaAkalanka",
+  "repo": "container-kexfca0",
+  "name": "NidukaAkalanka",
+  "email": "97357554+NidukaAkalanka@users.noreply.github.com",
+}
